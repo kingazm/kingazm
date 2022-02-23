@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on becoming most productive version of myself, and a secret (for now) project with cool people c: 
+- 🔭 I’m currently working on becoming most productive version of myself
 - 🌱 I’m currently learning Swift and Godot Engine
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: kingazmuda@outlook.com
