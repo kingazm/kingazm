@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <!-- ### Connect with me
 <a href="https://www.facebook.com/profile.php?id=100008961154076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="30" width="40" /></a> -->
 <!--
-### Sending positive energy only, Kinga ✨ -->
+### Sending positive energy only, Kinga ✨ 
