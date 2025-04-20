@@ -5,7 +5,7 @@
 
 ## 🛠️ Tech stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cpp,aws,latex)](https://skillicons.dev) <br>
-Familiar with object-oriented programming, data structures and algorithms, Agile and project management in general
+Skilled in OOP, algorithms, and data structures, with working knowledge of Agile practices and project management fundamentals
 
 ## 📌 Find me here 
 ☕ Let's chat about software development, IT events or personal growth!<br> <br>
