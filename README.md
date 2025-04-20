@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cpp,aws,latex)](https://skillicons.dev) <br>
 Familiar with object-oriented programming, data structures and algorithms, Agile and project management in general
 
-## Find me here 
+## 📌 Find me here 
 ☕ Let's chat about software development, IT events or personal growth!<br> <br>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kingazmuda/) 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/kingazm) 
