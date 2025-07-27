@@ -1,7 +1,7 @@
 # ✨ Hello, I am Kinga
 🎓 Computer Science Student at Jagiellonian Uni <br>
 🚀 Organizer of [SFI Academic IT Festival](https://sfi.pl/en) - the biggest IT conference organized by students in Poland <br>
-👩🏼‍💻 SDE Intern
+👩🏼‍💻 SDE Intern @ AWS
 
 ## 🛠️ Tech stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cpp,aws,latex)](https://skillicons.dev) <br>
