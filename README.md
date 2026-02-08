@@ -4,7 +4,7 @@
 👩🏼‍💻 ex-SDE Intern @ AWS, incoming SDE
 
 ## 🛠️ Tech stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,cpp,aws,ts)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,ts,cpp)](https://skillicons.dev) <br>
 Skilled in OOP, algorithms, and data structures, with working knowledge of Agile practices and project management fundamentals
 
 ## 📌 Find me here 
