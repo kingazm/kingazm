@@ -4,8 +4,7 @@
 👩🏼‍💻 ex-SDE Intern @ AWS, incoming SDE
 
 ## 🛠️ Tech stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,ts,cpp)](https://skillicons.dev) <br>
-Skilled in OOP, algorithms, and data structures, with working knowledge of Agile practices and project management fundamentals. Continuously learning about Software Development and Machine Learning.
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,ts,react,docker,python,githubactions,cpp)](https://skillicons.dev) <br>
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingazm&show_icons=true&theme=radical)
